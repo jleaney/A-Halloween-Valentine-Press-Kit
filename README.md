@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/jleaney/videoworld-presskit/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Video World is a synth-pop halloween musical about working at a video store, based on 3 original songs from synth-pop artist Monster Mansion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sing and complete rhythmic challenges while you decorate a video store for halloween and make friends with a magical pumpkin!
+
+![Image]("https://mcusercontent.com/4612c1901a849e5bf3740cc46/images/8de14185-3400-40ca-8a62-895e4ea21a66.gif")
+
 
 ### Markdown
 
