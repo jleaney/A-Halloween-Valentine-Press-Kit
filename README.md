@@ -7,9 +7,14 @@ Sing and complete rhythmic challenges while you decorate a video store for hallo
 ![Image]("https://mcusercontent.com/4612c1901a849e5bf3740cc46/images/8de14185-3400-40ca-8a62-895e4ea21a66.gif")
 
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- All 3 tracks from the Video World EP by synth-pop artist Monster Mansion
+- Rhythm based gameplay
+- Comedic dialogue
+- A spooky amount of puns
+- 90's nostalgia
+- Adorable 3D art style
 
 ```markdown
 Syntax highlighted code block
